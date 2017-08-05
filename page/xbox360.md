@@ -9,11 +9,11 @@
 <hr>
 > ### [XboxBackupCreator 2.9 build 0425](/xbox360/XboxBackupCreator.rar)
 <hr>
+> ### [ViewXexInfo 6.6](/xbox360/XexTool.rar)
+<hr>
 > ### [Iso2God 1.3.6](/xbox360/Iso2God.rar)
 <hr>
 > ### [God2Iso 1.0.4](/xbox360/God2Iso.rar)
-<hr>
-> ### [ViewXexInfo 6.6](/xbox360/XexTool.rar)
 <hr>
 > ### [TitleUpdateChecker 0.4 test](/xbox360/TitleUpdateChecker.rar)
 <hr>
