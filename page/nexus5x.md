@@ -8,5 +8,5 @@
 <hr>
 > ### 下载
 
-### [Ver 11.0](/other/FastBoot.rar)
+### [Ver 11.0](/nexus5x/FastBoot.rar)
 <hr>
