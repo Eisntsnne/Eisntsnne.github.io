@@ -8,7 +8,6 @@
 <hr>
 ## Download<br>
 ### [Windows](/page/windows.md)
-### [Android](/page/android.md)
 ### [Xbox360](/page/xbox360.md)
 ### [Wii](/page/wii.md)
 <hr>
